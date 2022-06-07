@@ -1,0 +1,18 @@
+# CHAPTER 5. 消息系统
+*KarezFlow 产品组
+整理：孙勇
+版本：0.1*
+
+## 5.1. MESSAGE
+
+## 5.2. MESSAGE CHANNEL
+
+## 5.3. MESSAGE ENDPOINT
+
+## 5.4. PIPES AND FILTERS
+
+## 5.5. MESSAGE ROUTER
+
+## 5.6. MESSAGE TRANSLATOR
+
+## 5.7. MESSAGE HISTORY
